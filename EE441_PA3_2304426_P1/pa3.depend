@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673004136 source:c:\users\bahadir\desktop\pa3\pa3\main.cpp
+	"matrix.hpp"
+
+1673004077 c:\users\bahadir\desktop\pa3\pa3\matrix.hpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1673004136 source:c:\users\bahadir\desktop\pa3\ee441_pa3_2304426_p1\main.cpp
+	"matrix.hpp"
+
+1673004077 c:\users\bahadir\desktop\pa3\ee441_pa3_2304426_p1\matrix.hpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
